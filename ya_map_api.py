@@ -92,6 +92,7 @@ if __name__ == '__main__':
     xls_to_json('./xls/p1_2.xlsx')
 
     # coords_to_xlsx('.\stom2.xlsx')
+    
     # coordinates = client.coordinates("Москва, ул. Октябрьская, д. 2/4")
     # print(str(coordinates[1]), str(coordinates[0]))
     # assert coordinates == (Decimal("37.587093"), Decimal("55.733969"))
