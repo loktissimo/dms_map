@@ -1,0 +1,1968 @@
+
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.771788,
+                    37.579241
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ЗАО \"Группа компаний Медси\"",
+                "balloonContentBody": "Грузинский переулок, д.3а",
+                "balloonContentFooter": "м. Белорусская",
+                "clusterCaption": "ЗАО \"Группа компаний Медси\"",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 1
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.779919,
+                    37.552597
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Клиника \"МЕДСИ\" в Боткинском проезде",
+                "balloonContentBody": "2-й Боткинский проезд, д.5 корп.3",
+                "balloonContentFooter": "м. Беговая",
+                "clusterCaption": "Клиника \"МЕДСИ\" в Боткинском проезде",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 2
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.777277,
+                    37.635107
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "КДЦ \"МЕДСИ\" в Грохольском переулке",
+                "balloonContentBody": "Проспект Мира, д.26 стр.6",
+                "balloonContentFooter": "м. Проспект Мира",
+                "clusterCaption": "КДЦ \"МЕДСИ\" в Грохольском переулке",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 3
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.762297,
+                    37.57174
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "КДЦ \"Медси\" на Красной Пресне",
+                "balloonContentBody": "Красная Пресня, д.16",
+                "balloonContentFooter": "м. Краснопресненская",
+                "clusterCaption": "КДЦ \"Медси\" на Красной Пресне",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 4
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.751852,
+                    37.638153
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Клиника \"Медси\" на Солянке",
+                "balloonContentBody": "Солянка, д.12, стр.1",
+                "balloonContentFooter": "м. Китай-город",
+                "clusterCaption": "Клиника \"Медси\" на Солянке",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 5
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.779985,
+                    37.552094
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Клиника \"МЕДСИ\" в Боткинском проезде",
+                "balloonContentBody": "Динамо, 2-й Боткинский проезд, д.5 корп.4",
+                "balloonContentFooter": "м. Беговая",
+                "clusterCaption": "Клиника \"МЕДСИ\" в Боткинском проезде",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 6
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.880531,
+                    38.067179
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Клиника \"МЕДСИ\" в Ступино",
+                "balloonContentBody": "Ступино,Службина, д.2",
+                "balloonContentFooter": null,
+                "clusterCaption": "Клиника \"МЕДСИ\" в Ступино",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 7
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.73481,
+                    37.617348
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Клиника \"Группа компаний Медси\"",
+                "balloonContentBody": "Малая Полянка, д.7/7, стр.1",
+                "balloonContentFooter": "м. Полянка",
+                "clusterCaption": "Клиника \"Группа компаний Медси\"",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 8
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.79728,
+                    37.541027
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Клиника \"Медси\" на Ленинградке",
+                "balloonContentBody": "Ленинградский пр-т, д.52",
+                "balloonContentFooter": "м. Аэропорт",
+                "clusterCaption": "Клиника \"Медси\" на Ленинградке",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 9
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.651669,
+                    37.731829
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Клиника \"МЕДСИ\" в Марьино",
+                "balloonContentBody": "Маршала Голованова, д.1, стр.2",
+                "balloonContentFooter": "м. Марьино",
+                "clusterCaption": "Клиника \"МЕДСИ\" в Марьино",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 10
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.854249,
+                    37.357402
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Клиника \"МЕДСИ\" в Митино",
+                "balloonContentBody": "Пятницкое шоссе, д.37",
+                "balloonContentFooter": "м. Тушинская",
+                "clusterCaption": "Клиника \"МЕДСИ\" в Митино",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 11
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.833415,
+                    37.2909
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Клиника \"МЕДСИ\" в г.Красногорске",
+                "balloonContentBody": "Красногорск, ул. Успенская, д.5",
+                "balloonContentFooter": null,
+                "clusterCaption": "Клиника \"МЕДСИ\" в г.Красногорске",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 12
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.869152,
+                    37.337424
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Поликлиника МЕДСИ в Отрадном",
+                "balloonContentBody": "Красногорский р-он, Пятницкое шоссе, 6 км",
+                "balloonContentFooter": "м. Пятницкое шоссе",
+                "clusterCaption": "Поликлиника МЕДСИ в Отрадном",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 13
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.569067,
+                    37.581963
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Клиника \"МЕДСИ\" в Бутово",
+                "balloonContentBody": "Ул. Старокачаловская, д.3, стр.3",
+                "balloonContentFooter": "м. Бульвар Дмитрия Донского",
+                "clusterCaption": "Клиника \"МЕДСИ\" в Бутово",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 14
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.766704,
+                    37.597396
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Клиника \"Медси\" в Благовещенском переулке",
+                "balloonContentBody": "Благовещенский пер., д.6, стр.1",
+                "balloonContentFooter": "м. Маяковская",
+                "clusterCaption": "Клиника \"Медси\" в Благовещенском переулке",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 15
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.887942,
+                    38.06434
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Клиника \"МЕДСИ\" в Ступино",
+                "balloonContentBody": "Ступино, ул. Андропова, д.64",
+                "balloonContentFooter": null,
+                "clusterCaption": "Клиника \"МЕДСИ\" в Ступино",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 16
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.929182,
+                    37.993706
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Клиника \"Медси\" в Щелково",
+                "balloonContentBody": "Щёлково, Комсомольская, д.5",
+                "balloonContentFooter": null,
+                "clusterCaption": "Клиника \"Медси\" в Щелково",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 17
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.738784,
+                    37.587164
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Клиника \"Медси\" на Пречистенке",
+                "balloonContentBody": "Пречистенка, д.39",
+                "balloonContentFooter": "м. Парк культуры",
+                "clusterCaption": "Клиника \"Медси\" на Пречистенке",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 18
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.72021,
+                    37.635709
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Клиника \"МЕДСИ\" на Дубининской",
+                "balloonContentBody": "Дубининская, д.57, стр.8",
+                "balloonContentFooter": "м. Павелецкая",
+                "clusterCaption": "Клиника \"МЕДСИ\" на Дубининской",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 19
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.739017,
+                    37.44082
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Клиника \"МЕДСИ\" на Рублевском шоссе",
+                "balloonContentBody": "Рублевское шоссе, д.10",
+                "balloonContentFooter": "м. Кунцевская",
+                "clusterCaption": "Клиника \"МЕДСИ\" на Рублевском шоссе",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 20
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.772836,
+                    37.540075
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Клиника «МЕДСИ» в Хорошевском проезде,",
+                "balloonContentBody": "3-ий Хорошевский проезд, д. 1, стр. 2",
+                "balloonContentFooter": "м. Беговая",
+                "clusterCaption": "Клиника «МЕДСИ» в Хорошевском проезде,",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 21
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.717361,
+                    37.592141
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Клиника \"МЕДСИ\" на Ленинском проспекте",
+                "balloonContentBody": "Ленинский пр., д.20, к. 1",
+                "balloonContentFooter": "м. Шаболовская",
+                "clusterCaption": "Клиника \"МЕДСИ\" на Ленинском проспекте",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 22
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.710124,
+                    37.654601
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Клиника \"МЕДСИ\" на Ленинской слободе",
+                "balloonContentBody": "Ленинская слобода, д.26",
+                "balloonContentFooter": "м. Автозаводская",
+                "clusterCaption": "Клиника \"МЕДСИ\" на Ленинской слободе",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 23
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.991042,
+                    37.217238
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО «Леконс» (бывш. ООО \"ЛЭЙТОНС\")",
+                "balloonContentBody": "г. Зеленоград, Савелкинский проезд, д.4, пом. VII, комн.30",
+                "balloonContentFooter": null,
+                "clusterCaption": "ООО «Леконс» (бывш. ООО \"ЛЭЙТОНС\")",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 24
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.859059,
+                    37.65593
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ЗАО «Медицинские услуги» поликлиника № 6»",
+                "balloonContentBody": "Москва, ул. Кольская, д.2, корп.3, стр.1",
+                "balloonContentFooter": "м. Свиблово",
+                "clusterCaption": "ЗАО «Медицинские услуги» поликлиника № 6»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 25
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.801399,
+                    37.535592
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ЗАО «Центральная поликлиника Литфонда»",
+                "balloonContentBody": "Москва, 1-я Аэропортовская ул., дом 5",
+                "balloonContentFooter": "м. Аэропорт",
+                "clusterCaption": "ЗАО «Центральная поликлиника Литфонда»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 26
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.578655,
+                    38.247202
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО Центр Традиционной и Восточной Медицины «ПЯТЬ ЭЛЕМЕНТОВ»",
+                "balloonContentBody": "МО. г. Раменское, ул. Дергаевская, д.26, оф.2",
+                "balloonContentFooter": null,
+                "clusterCaption": "ООО Центр Традиционной и Восточной Медицины «ПЯТЬ ЭЛЕМЕНТОВ»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 27
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.784577,
+                    37.614222
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО «Международный центр охраны здоровья»(бывш. ООО \"Международный центр охраны здоровья Игоря Медведева\")",
+                "balloonContentBody": "Москва, ул. Октябрьская, д. 2/4",
+                "balloonContentFooter": "м. Новослободская, Достоевская",
+                "clusterCaption": "ООО «Международный центр охраны здоровья»(бывш. ООО \"Международный центр охраны здоровья Игоря Медведева\")",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 28
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.771094,
+                    37.633508
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО «Новая поликлиника»",
+                "balloonContentBody": "Сретенский тупик д.4",
+                "balloonContentFooter": "м. Сухаревская",
+                "clusterCaption": "ООО «Новая поликлиника»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 29
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.661049,
+                    37.904072
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО \"Клиника высокотехнологичной медицины - ЮГ\"",
+                "balloonContentBody": "М.О., г. Люберцы, ул. Южная. д. 10, корп.",
+                "balloonContentFooter": "м. -",
+                "clusterCaption": "ООО \"Клиника высокотехнологичной медицины - ЮГ\"",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 30
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.667102,
+                    37.861959
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО \"Клиника высокотехнологичной медицины - ЮГ\"",
+                "balloonContentBody": "М.О., г.Котельники, ул.Кузьминская, д.15, пом.01",
+                "balloonContentFooter": "м. -",
+                "clusterCaption": "ООО \"Клиника высокотехнологичной медицины - ЮГ\"",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 31
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.739868,
+                    37.530301
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО «МЕДИЦИНСКИЙ ЦЕНТР АТЛАС»",
+                "balloonContentBody": "Москва, Кутузовский проспект, дом 34, строение 14",
+                "balloonContentFooter": "м. Кутузовская",
+                "clusterCaption": "ООО «МЕДИЦИНСКИЙ ЦЕНТР АТЛАС»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 32
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.66994,
+                    37.290846
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО \"Одинмед\"",
+                "balloonContentBody": "Одинцово,Союзная, д.32Б",
+                "balloonContentFooter": null,
+                "clusterCaption": "ООО \"Одинмед\"",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 33
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.656859,
+                    37.200503
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО \"Одинмед\"",
+                "balloonContentBody": "Одинцово,Рябиновая, пос. ВНИИССОК, д.2",
+                "balloonContentFooter": null,
+                "clusterCaption": "ООО \"Одинмед\"",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 34
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.679519,
+                    37.265316
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО \"Одинмед\"",
+                "balloonContentBody": "Одинцово,Неделина, д.19",
+                "balloonContentFooter": null,
+                "clusterCaption": "ООО \"Одинмед\"",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 35
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.666457,
+                    37.287891
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО \"Одинмед\"",
+                "balloonContentBody": "Одинцово,Комсомольская, д.16 корп 3",
+                "balloonContentFooter": null,
+                "clusterCaption": "ООО \"Одинмед\"",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 36
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.726867,
+                    38.018994
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО \"Мед Гарант\"",
+                "balloonContentBody": "Балашиха,мкр. Саввино, ул. Пригородная, д.6",
+                "balloonContentFooter": null,
+                "clusterCaption": "ООО \"Мед Гарант\"",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 37
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.727019,
+                    38.019883
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО \"Мед Гарант\"",
+                "balloonContentBody": "Балашиха,мкр. Саввино, ул. 1 мая, 2 корп.1",
+                "balloonContentFooter": null,
+                "clusterCaption": "ООО \"Мед Гарант\"",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 38
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.792306,
+                    37.606388
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ФГБУЗ ЦМСЧ № 119 ФМБА России",
+                "balloonContentBody": "Сущевский вал, д.24",
+                "balloonContentFooter": "м. Марьина роща",
+                "clusterCaption": "ФГБУЗ ЦМСЧ № 119 ФМБА России",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 39
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.90465,
+                    37.451698
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ФГБУЗ ЦМСЧ № 119 ФМБА России (только по гарантийным письмам)",
+                "balloonContentBody": "Химки,8 марта, д.3А",
+                "balloonContentFooter": null,
+                "clusterCaption": "ФГБУЗ ЦМСЧ № 119 ФМБА России (только по гарантийным письмам)",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 40
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.755393,
+                    37.866828
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ФГБУЗ ЦМСЧ № 119 ФМБА России (только по гарантийным письмам)",
+                "balloonContentBody": "Реутов,Железнодорожная, д.7",
+                "balloonContentFooter": null,
+                "clusterCaption": "ФГБУЗ ЦМСЧ № 119 ФМБА России (только по гарантийным письмам)",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 41
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.911023,
+                    37.811626
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ФГБУЗ ЦМСЧ № 119 ФМБА России",
+                "balloonContentBody": "Королев,Богомолова, д.11;",
+                "balloonContentFooter": null,
+                "clusterCaption": "ФГБУЗ ЦМСЧ № 119 ФМБА России",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 42
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.722502,
+                    37.664482
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Сеть клиник «Доктор рядом»",
+                "balloonContentBody": "Симоновский вал, д.15 стр. 2",
+                "balloonContentFooter": "м. Пролетарская",
+                "clusterCaption": "Сеть клиник «Доктор рядом»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 43
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.703976,
+                    37.923799
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Сеть клиник «Доктор рядом»",
+                "balloonContentBody": "г. Москва, Некрасовка, Проспект Защитников Москвы, д.15",
+                "balloonContentFooter": "м. Выхино",
+                "clusterCaption": "Сеть клиник «Доктор рядом»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 44
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.68129,
+                    37.45858
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Сеть клиник «Доктор рядом»",
+                "balloonContentBody": "г. Москва, ул. Озерная, д.10",
+                "balloonContentFooter": "м. Юго-Западная",
+                "clusterCaption": "Сеть клиник «Доктор рядом»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 45
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.701171,
+                    37.762174
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Сеть клиник «Доктор рядом»",
+                "balloonContentBody": "г. Москва, ул. Юных Ленинцев, 59, корп.1",
+                "balloonContentFooter": "м. Кузьминки",
+                "clusterCaption": "Сеть клиник «Доктор рядом»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 46
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.859377,
+                    37.423276
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Сеть клиник «Доктор рядом»",
+                "balloonContentBody": "г. Москва, ул. Героев Панфиловцев, д. 18, корп. 2",
+                "balloonContentFooter": "м. Планерная",
+                "clusterCaption": "Сеть клиник «Доктор рядом»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 47
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.70595,
+                    37.479591
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Сеть клиник «Доктор рядом»",
+                "balloonContentBody": "г. Москва, ул. Веерная, д.1, к.7",
+                "balloonContentFooter": "м. Кунцевская",
+                "clusterCaption": "Сеть клиник «Доктор рядом»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 48
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.880046,
+                    37.527507
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Сеть клиник «Доктор рядом»",
+                "balloonContentBody": "г. Москва, ул. Ангарская, д. 45, корп. 1",
+                "balloonContentFooter": "м. Речной вокзал",
+                "clusterCaption": "Сеть клиник «Доктор рядом»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 49
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.878157,
+                    37.627472
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Сеть клиник «Доктор рядом»",
+                "balloonContentBody": "г. Москва, ул. Молодцова, 25 Корпус 2",
+                "balloonContentFooter": "м. Бабушкинская",
+                "clusterCaption": "Сеть клиник «Доктор рядом»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 50
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.873541,
+                    37.679305
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Сеть клиник «Доктор рядом»",
+                "balloonContentBody": "г. Москва, ул. Летчика Бабушкина, д.42",
+                "balloonContentFooter": "м. Бабушкинская",
+                "clusterCaption": "Сеть клиник «Доктор рядом»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 51
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.861333,
+                    37.503864
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Сеть клиник «Доктор рядом»",
+                "balloonContentBody": "г. Москва, ул. Фестивальная, 32, корп.1",
+                "balloonContentFooter": "м. Речной вокзал",
+                "clusterCaption": "Сеть клиник «Доктор рядом»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 52
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.658698,
+                    38.242584
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Сеть клиник «Доктор рядом»",
+                "balloonContentBody": "г. Москва, ул.Кулакова, д.20, стр.1Л, т/п «Орбита»",
+                "balloonContentFooter": "м. Строгино",
+                "clusterCaption": "Сеть клиник «Доктор рядом»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 53
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.678707,
+                    37.634631
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Сеть клиник «Доктор рядом»",
+                "balloonContentBody": "г. Москва, 1-ый Нагатинский проезд, дом 11, корп. 1, пом. XII, эт. 1",
+                "balloonContentFooter": "м. Нагатинская",
+                "clusterCaption": "Сеть клиник «Доктор рядом»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 54
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.827838,
+                    37.514266
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО «Группа компаний СМ-Клиника»",
+                "balloonContentBody": "ул. Клары Цеткин, д.33, корп.28",
+                "balloonContentFooter": "м. Войковская",
+                "clusterCaption": "ООО «Группа компаний СМ-Клиника»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 55
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.82574,
+                    37.498078
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО «Группа компаний СМ-Клиника»",
+                "balloonContentBody": "Старопетровский проезд, д. 7А, стр 22",
+                "balloonContentFooter": "м. Войковская",
+                "clusterCaption": "ООО «Группа компаний СМ-Клиника»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 56
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.783124,
+                    37.589886
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО «Группа компаний СМ-Клиника»",
+                "balloonContentBody": "ул. Лесная, д. 57, строение 1",
+                "balloonContentFooter": "м. Белорусская",
+                "clusterCaption": "ООО «Группа компаний СМ-Клиника»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 57
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.753554,
+                    37.663126
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО «Группа компаний СМ-Клиника»",
+                "balloonContentBody": "2-й Сыромятнический пер. д. 11",
+                "balloonContentFooter": "м. Курская",
+                "clusterCaption": "ООО «Группа компаний СМ-Клиника»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 58
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.814614,
+                    37.647603
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО «Группа компаний СМ-Клиника»",
+                "balloonContentBody": "ул. Ярославская, д.4, корп. 2",
+                "balloonContentFooter": "м. Алексеевская",
+                "clusterCaption": "ООО «Группа компаний СМ-Клиника»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 59
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.736128,
+                    37.410035
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО «Группа компаний СМ-Клиника»",
+                "balloonContentBody": "ул. Ярцевская, д.8",
+                "balloonContentFooter": "м. Молодежная",
+                "clusterCaption": "ООО «Группа компаний СМ-Клиника»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 60
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.202045,
+                    36.950097
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО «Группа компаний СМ-Клиника»",
+                "balloonContentBody": "МО, г. Солнечногорск, ул. Красная, д.167",
+                "balloonContentFooter": "м. -",
+                "clusterCaption": "ООО «Группа компаний СМ-Клиника»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 61
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.785923,
+                    37.574822
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО «Группа компаний СМ-Клиника»",
+                "balloonContentBody": "Москва. Пер. Расковой, д.14-22",
+                "balloonContentFooter": "м. Динамо",
+                "clusterCaption": "ООО «Группа компаний СМ-Клиника»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 62
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.708374,
+                    37.726071
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО «Группа компаний СМ-Клиника»",
+                "balloonContentBody": "Москва. Волгоградский пр., д.42, корп. 1",
+                "balloonContentFooter": "м. Текстильщики",
+                "clusterCaption": "ООО «Группа компаний СМ-Клиника»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 63
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.648367,
+                    37.604735
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО «Группа компаний СМ-Клиника»",
+                "balloonContentBody": "Москва, Симферопольский бульвар, дом 22",
+                "balloonContentFooter": "м. Чертановская",
+                "clusterCaption": "ООО «Группа компаний СМ-Клиника»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 64
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.752024,
+                    37.404618
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО «Группа компаний СМ-Клиника»",
+                "balloonContentBody": "Москва, ул. Маршала Тимошенко, д. 29",
+                "balloonContentFooter": "м. Крылатское",
+                "clusterCaption": "ООО «Группа компаний СМ-Клиника»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 65
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.176539,
+                    36.998013
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО «Группа компаний СМ-Клиника»",
+                "balloonContentBody": "МО, г. Солнечногорск, мкр. Рекинцо, д. 14",
+                "balloonContentFooter": "м. -",
+                "clusterCaption": "ООО «Группа компаний СМ-Клиника»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 66
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.012179,
+                    37.202075
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО \"ЗелМедЦентр\"",
+                "balloonContentBody": "Зеленоград, Панфиловский пр-кт, д.10",
+                "balloonContentFooter": null,
+                "clusterCaption": "ООО \"ЗелМедЦентр\"",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 67
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.827247,
+                    37.953821
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО \"Медицинский центр \"Доктор Боголюбов\"",
+                "balloonContentBody": "Балашиха, Звездная, д.7, стр.1",
+                "balloonContentFooter": null,
+                "clusterCaption": "ООО \"Медицинский центр \"Доктор Боголюбов\"",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 68
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.936469,
+                    37.494063
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО \"Никсор\"",
+                "balloonContentBody": "Долгопрудный, Лихачевский проспект, д.76, стр.1;",
+                "balloonContentFooter": null,
+                "clusterCaption": "ООО \"Никсор\"",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 69
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.946431,
+                    37.489832
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО \"Никсор\"",
+                "balloonContentBody": "Долгопрудный,Нагорная, д.9 ",
+                "balloonContentFooter": null,
+                "clusterCaption": "ООО \"Никсор\"",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 70
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.900819,
+                    37.400081
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО \"Никсор\"",
+                "balloonContentBody": "Химки,Молодежная, д.52",
+                "balloonContentFooter": null,
+                "clusterCaption": "ООО \"Никсор\"",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 71
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.731247,
+                    37.471336
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО «Новое русское качество (НРК)»",
+                "balloonContentBody": "Москва, ул. Герасима Курина, д.16",
+                "balloonContentFooter": "м. Славянский бульвар",
+                "clusterCaption": "ООО «Новое русское качество (НРК)»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 72
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.677636,
+                    37.576385
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ФГБУ \"Лечебно-реабилитационный клинический центр\" Министерства обороны Российской Федерации",
+                "balloonContentBody": "Кржижановского, д.24/35",
+                "balloonContentFooter": "м. Профсоюзная",
+                "clusterCaption": "ФГБУ \"Лечебно-реабилитационный клинический центр\" Министерства обороны Российской Федерации",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 73
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.770598,
+                    37.645088
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Федеральное государственное бюджетное учреждение \"Лечебно-реабилитационный центр \"Изумруд\"(старое название ФГУ Сельского хозяйства РФ)",
+                "balloonContentBody": "Садово-Спасская, д. 11/1 (Орликов пер, 1/11)",
+                "balloonContentFooter": "м. Красные ворота",
+                "clusterCaption": "Федеральное государственное бюджетное учреждение \"Лечебно-реабилитационный центр \"Изумруд\"(старое название ФГУ Сельского хозяйства РФ)",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 74
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.596147,
+                    38.12866
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ОАО \"Центральная больница экспертизы летно-испытательного состава\"",
+                "balloonContentBody": "Жуковский, Дзержинского, д.16",
+                "balloonContentFooter": null,
+                "clusterCaption": "ОАО \"Центральная больница экспертизы летно-испытательного состава\"",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 75
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.770173,
+                    37.654008
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "НУЗ «Центральная поликлиника ОАО «РЖД»",
+                "balloonContentBody": "Новая Басманная ул., д. 5",
+                "balloonContentFooter": "м. Красные ворота",
+                "clusterCaption": "НУЗ «Центральная поликлиника ОАО «РЖД»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 76
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.720246,
+                    37.618848
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ФГУП \"Гознак\"- Московская печатная фабрика - филиал Федерального государственного унитарного предприятия \"Гознак\"",
+                "balloonContentBody": "Павла Андреева, д.27 стр.20",
+                "balloonContentFooter": "м. Шаболовская",
+                "clusterCaption": "ФГУП \"Гознак\"- Московская печатная фабрика - филиал Федерального государственного унитарного предприятия \"Гознак\"",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 77
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.921052,
+                    37.759874
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО «Изида»",
+                "balloonContentBody": "Московская область, г. Мытищи, Олимпийский пр-т, д.15, корп.4.",
+                "balloonContentFooter": null,
+                "clusterCaption": "ООО «Изида»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 78
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.894964,
+                    37.44771
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО \"СЕМЕЙНАЯ МЕДИЦИНСКАЯ КЛИНИКА\"",
+                "balloonContentBody": "Химки, Маяковского, д.1",
+                "balloonContentFooter": null,
+                "clusterCaption": "ООО \"СЕМЕЙНАЯ МЕДИЦИНСКАЯ КЛИНИКА\"",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 79
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.830017,
+                    37.326913
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ЗАО «Зенит-Медсервис»",
+                "balloonContentBody": "Московская обл., г. Красногорск, ул. Советская, д. 9",
+                "balloonContentFooter": null,
+                "clusterCaption": "ЗАО «Зенит-Медсервис»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 80
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.797862,
+                    37.54966
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Филиал №6 ФБУ \"3 ЦВКГ им. А.А.Вишневского Минобороны России\"(бывш.ФГУ «52 КДЦ Минобороны России»)",
+                "balloonContentBody": "Ул. Планетная, д3, к.3",
+                "balloonContentFooter": "м. Динамо",
+                "clusterCaption": "Филиал №6 ФБУ \"3 ЦВКГ им. А.А.Вишневского Минобороны России\"(бывш.ФГУ «52 КДЦ Минобороны России»)",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 81
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.82801,
+                    37.489392
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ФГБУЗ ФКЦ ВМТ ФМБА России",
+                "balloonContentBody": "Химки, Ленинградское шоссе, д.25",
+                "balloonContentFooter": null,
+                "clusterCaption": "ФГБУЗ ФКЦ ВМТ ФМБА России",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 82
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.753838,
+                    37.500809
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ФГБУЗ ФКЦ ВМТ ФМБА России",
+                "balloonContentBody": "Москва, Новозаводская улица, д.14, корпус А",
+                "balloonContentFooter": "м. Фили",
+                "clusterCaption": "ФГБУЗ ФКЦ ВМТ ФМБА России",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 83
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.736843,
+                    37.670573
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ФГБУЗ ФКЦ ВМТ ФМБА России",
+                "balloonContentBody": "Москва, ул. Абельмановская, д.4",
+                "balloonContentFooter": "м. Пролетарская",
+                "clusterCaption": "ФГБУЗ ФКЦ ВМТ ФМБА России",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 84
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    56.011847,
+                    37.852509
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО «Семейная поликлиника №3»",
+                "balloonContentBody": "МО, г. Пушкино, ул. Тургенева, д.13",
+                "balloonContentFooter": null,
+                "clusterCaption": "ООО «Семейная поликлиника №3»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 85
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.971874,
+                    37.910953
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО Медицинский центр ВМЛ «Мой Доктор»",
+                "balloonContentBody": "Московская область, г. Ивантеевка, Детский проезд, д.8.",
+                "balloonContentFooter": null,
+                "clusterCaption": "ООО Медицинский центр ВМЛ «Мой Доктор»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 86
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.96863,
+                    37.91496
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО Медицинский центр ВМЛ «Мой Доктор»",
+                "balloonContentBody": "Московская область, г. Ивантеевка, ул. Новая Слобода,д.4.",
+                "balloonContentFooter": null,
+                "clusterCaption": "ООО Медицинский центр ВМЛ «Мой Доктор»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 87
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.578345,
+                    38.204037
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО Медицинский научный центр \"МедБиоСпектр\"",
+                "balloonContentBody": "140105, Московская обл, Раменское г, Раменский р-н, Чугунова ул, 21а, 3",
+                "balloonContentFooter": null,
+                "clusterCaption": "ООО Медицинский научный центр \"МедБиоСпектр\"",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 88
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.970126,
+                    37.931246
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО «Семейная Клиника Здоровье»",
+                "balloonContentBody": "Московская область, г. Ивантеевка, ул. Трудовая, д. 7, пом. 1-13",
+                "balloonContentFooter": null,
+                "clusterCaption": "ООО «Семейная Клиника Здоровье»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 89
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.771996,
+                    37.622262
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Сеть поликлиник «Он Клиник» (ООО «Он Клиник»)",
+                "balloonContentBody": "Москва, Цветной бульвар, д.30, корп.2",
+                "balloonContentFooter": "м. Цветной бульвар",
+                "clusterCaption": "Сеть поликлиник «Он Клиник» (ООО «Он Клиник»)",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 90
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.753524,
+                    37.588422
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Сеть поликлиник «Он Клиник» (ООО «Он Клиник»)",
+                "balloonContentBody": "Москва, ул. Большая Молчановка, д. 32, стр.1",
+                "balloonContentFooter": "м. Арбатская, Смоленская",
+                "clusterCaption": "Сеть поликлиник «Он Клиник» (ООО «Он Клиник»)",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 91
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.759167,
+                    37.561607
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Сеть поликлиник «Он Клиник» (ООО «Он Клиник»)",
+                "balloonContentBody": "Москва, ул. Трехгорный Вал д.12 стр.2",
+                "balloonContentFooter": "м. Улица 1905 года",
+                "clusterCaption": "Сеть поликлиник «Он Клиник» (ООО «Он Клиник»)",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 92
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.738708,
+                    37.655787
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Сеть поликлиник «Он Клиник» (ООО «Он Клиник»)",
+                "balloonContentBody": "Москва, ул. Воронцовская д.8, стр.6",
+                "balloonContentFooter": "м. Таганская",
+                "clusterCaption": "Сеть поликлиник «Он Клиник» (ООО «Он Клиник»)",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 93
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.771768,
+                    37.623384
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Сеть поликлиник «Он Клиник» (ООО «Он Клиник»)",
+                "balloonContentBody": "ул.Трубная, д.29, стр.6",
+                "balloonContentFooter": "м. Цветной бульвар",
+                "clusterCaption": "Сеть поликлиник «Он Клиник» (ООО «Он Клиник»)",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 94
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.737557,
+                    37.587057
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Сеть поликлиник «Он Клиник» (ООО «Он Клиник»)",
+                "balloonContentBody": "Зубовский б-р, д.35, стр.1",
+                "balloonContentFooter": "м. Парк культуры",
+                "clusterCaption": "Сеть поликлиник «Он Клиник» (ООО «Он Клиник»)",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 95
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.928804,
+                    37.75179
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Сеть клиник \"НЕБОЛИТ\"",
+                "balloonContentBody": "Мытищи, Олимпийский пр-т, 29",
+                "balloonContentFooter": null,
+                "clusterCaption": "Сеть клиник \"НЕБОЛИТ\"",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 96
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.912481,
+                    37.827347
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Сеть клиник \"НЕБОЛИТ\"",
+                "balloonContentBody": "Королев, ул. Пионерская, 30, корп.9",
+                "balloonContentFooter": null,
+                "clusterCaption": "Сеть клиник \"НЕБОЛИТ\"",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 97
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.825998,
+                    37.3712
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Сеть клиник \"НЕБОЛИТ\"",
+                "balloonContentBody": "Красногорск, ул. Спасская, 1, корп.3",
+                "balloonContentFooter": null,
+                "clusterCaption": "Сеть клиник \"НЕБОЛИТ\"",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 98
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.690552,
+                    37.548231
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Сеть клиник \"НЕБОЛИТ\"",
+                "balloonContentBody": "Москва, Ленинский пр-т, 66, помещение 1",
+                "balloonContentFooter": "м. Университет",
+                "clusterCaption": "Сеть клиник \"НЕБОЛИТ\"",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 99
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.65177,
+                    37.620627
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Сеть клиник \"НЕБОЛИТ\"",
+                "balloonContentBody": "Москва, Варшавское ш., 89",
+                "balloonContentFooter": "м. Варшавская",
+                "clusterCaption": "Сеть клиник \"НЕБОЛИТ\"",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 100
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.48452,
+                    37.304914
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "Сеть клиник \"НЕБОЛИТ\"",
+                "balloonContentBody": "Троицк, Академическая площадь, 3",
+                "balloonContentFooter": null,
+                "clusterCaption": "Сеть клиник \"НЕБОЛИТ\"",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 101
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.593924,
+                    38.47541
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО «Новые медтехнологии»",
+                "balloonContentBody": "Московская обл, Раменский р-н, Речицы с, Совхозная ул, стр. 2",
+                "balloonContentFooter": null,
+                "clusterCaption": "ООО «Новые медтехнологии»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 102
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.583851,
+                    38.239207
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО «Новые медтехнологии»",
+                "balloonContentBody": "140105, Московская обл, Раменское г, Раменский р-н, Северное ш, 15",
+                "balloonContentFooter": null,
+                "clusterCaption": "ООО «Новые медтехнологии»",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 103
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.574548,
+                    38.252466
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО \"Новые медтехнологии 1\"",
+                "balloonContentBody": "140103, Московская обл, г.Раменское, ул.Крымская, 2, пом.7, 10",
+                "balloonContentFooter": null,
+                "clusterCaption": "ООО \"Новые медтехнологии 1\"",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 104
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.561222,
+                    38.249241
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО \"Медина\"",
+                "balloonContentBody": "140108, Московская обл., Раменский р-н., г. Раменское, ул. Михалевича, д.49",
+                "balloonContentFooter": null,
+                "clusterCaption": "ООО \"Медина\"",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 105
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.103353,
+                    36.596215
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО \"Центр реабилитации\"",
+                "balloonContentBody": "249020, Калужская обл., г. Обнинск, ул. Любого, д.2",
+                "balloonContentFooter": null,
+                "clusterCaption": "ООО \"Центр реабилитации\"",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 106
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.11997,
+                    36.585965
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ЗАО \"Национальный Медицинский Сервис\" (Клиники \"Ниармедик\" )",
+                "balloonContentBody": "249034, Калужская обл, Обнинск г, Гагарина ул, 37Б",
+                "balloonContentFooter": null,
+                "clusterCaption": "ЗАО \"Национальный Медицинский Сервис\" (Клиники \"Ниармедик\" )",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 107
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.09812,
+                    36.609492
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО \"Клиника №1\"",
+                "balloonContentBody": "249034, Калужская обл, Обнинск г, Ленина пр-кт, 74В",
+                "balloonContentFooter": null,
+                "clusterCaption": "ООО \"Клиника №1\"",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 108
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    55.121057,
+                    36.571583
+                ]
+            },
+            "properties": {
+                "balloonContentHeader": "ООО \"Здоровье семьи\"",
+                "balloonContentBody": "249034, Калужская обл., г. Обнинск, Ленина пр-кт., д.209",
+                "balloonContentFooter": null,
+                "clusterCaption": "ООО \"Здоровье семьи\"",
+                "hintContent": "Hint"
+            },
+            "type": "Feature",
+            "id": 109
+        }
+    ]
+}
